@@ -56,7 +56,7 @@ const userData = {
       company: "VisitIn",
       year: "2021",
       companyLink: "https://visit-ind.com/",
-      desc: "Developed mobile aplication for showing tourisrm destination and booking ticket using Flutter .",
+      desc: "Developed mobile application for showing tourism destination in indonasia and allow user booking ticket build using Flutter.",
     },
     {
       title: "Undergaduate",
@@ -67,7 +67,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "",
+    "https://rxresu.me/maulana/nurizko-maulana",
   socialLinks: {
     instagram: "https://instagram.com/nullinside",
     twitter: "https://twitter.com/diamemudar",
