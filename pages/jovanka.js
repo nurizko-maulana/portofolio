@@ -112,7 +112,7 @@ export default function Jovanka() {
         className="w-screen flex justify-center items-center text-center"
       >
         <Zoom delay={1000} duration={1000}>
-          <h1 className="">Hari ini Indriyani Jovanka insyaalah S.Kep</h1>
+          <h1 className="">Hari ini Indriyani Jovanka insyaallah S.Kep</h1>
         </Zoom>
       </section>
       <section
@@ -158,6 +158,22 @@ export default function Jovanka() {
         className="w-screen flex justify-center items-center text-center"
       >
         <Zoom delay={1000} duration={1000}>
+          <h1 className="">Semoga yang di semogakan tersemogakan</h1>
+        </Zoom>
+      </section>
+      <section
+        style={{ height: "100vh" }}
+        className="w-screen flex justify-center items-center text-center"
+      >
+        <Zoom delay={1000} duration={1000}>
+          <h1 className="">dah gitu aja.</h1>
+        </Zoom>
+      </section>
+      <section
+        style={{ height: "100vh" }}
+        className="w-screen flex justify-center items-center text-center"
+      >
+        <Zoom delay={1000} duration={1000}>
           <button
             className=" flex-col justify-center items-center "
             onClick={confettiEmoji}
@@ -167,6 +183,7 @@ export default function Jovanka() {
           </button>
         </Zoom>
       </section>
+     
     </div>
   );
 }
